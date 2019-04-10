@@ -77,7 +77,7 @@ element.appendChild(ul);
 
 Hm, that looks a bit ugly. Let's fix it
 
-```javascript
+```javascripts
 ul.style.textAlign = 'left';
 ```
 
